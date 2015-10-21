@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#d80a08</color>
+    <color name="grean">#33CC00</color>
+    <color name="gray">#5f646e</color>
+    <color name="graylight">#F2F2F2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange_color_text">#FF7A31</color>
+    <color name="blue">#0a7ecf</color>
+    <color name="black">#202020</color>
+    <color name="blacklight">#000000</color>
+    <color name="onekey">#525252</color>
+    <color name="newstype">#a4a4a4</color>
+    <color name="listview_divide">#dddddd</color>
+    <color name="region">#8000ff00</color>
+    <color name="listTitle">#ff23323b</color>
+    <color name="text">#ff848f9b</color>
+    <color name="write">#ffffffff</color>
+         <color name="result_view">#b0000000</color>
+      <color name="viewfinder_mask">#60000000</color>
+      <color name="possible_result_points">#c0ffff00</color> 
+
+    <!-- LIST BORDER COLOR -->
+    <color name="rounded_container_border">#ffb7babb</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+    <color name="base_start_color_pressed">#0b7ecf</color>
+    <color name="base_end_color_pressed">#0b7ecf</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+
+    <!-- OrderSign Activity Using -->
+    <color name="os_deep_blue">#0b65a1</color>
+    <color name="os_deep_text_color">#dfe6ee</color>
+    <color name="os_light_blue">#5db1ec</color>
+    <color name="os_light_text_color">#0b65a1</color>
+
+</resources>
